@@ -1,0 +1,10 @@
+C:\c#\01.Thead\01.demo\bin\Debug\01.demo.exe.config
+C:\c#\01.Thead\01.demo\bin\Debug\01.demo.exe
+C:\c#\01.Thead\01.demo\bin\Debug\01.demo.pdb
+C:\c#\01.Thead\01.demo\obj\Debug\01.demo.csproj.AssemblyReference.cache
+C:\c#\01.Thead\01.demo\obj\Debug\_01.demo.Form1.resources
+C:\c#\01.Thead\01.demo\obj\Debug\_01.demo.Properties.Resources.resources
+C:\c#\01.Thead\01.demo\obj\Debug\01.demo.csproj.GenerateResource.cache
+C:\c#\01.Thead\01.demo\obj\Debug\01.demo.csproj.CoreCompileInputs.cache
+C:\c#\01.Thead\01.demo\obj\Debug\01.demo.exe
+C:\c#\01.Thead\01.demo\obj\Debug\01.demo.pdb
